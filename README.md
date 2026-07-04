@@ -1,16 +1,13 @@
-## Hi there 👋
+<img src="https://tejasgjadhav.github.io/tejas-jadhav.jpg" alt="Tejas Jadhav, CFA, FRM — AI in Finance Author" width="200" align="right" />
 
-<!--
-**tejasgjadhav/tejasgjadhav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Tejas Jadhav, CFA, FRM
 
-Here are some ideas to get you started:
+**AI in Finance author** · 12+ years across Citi, HDFC Bank & leading Swiss institutions · Guest faculty (AI in Finance) at SCMHRD, Pune.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I build AI-powered tools for financial analysis — portfolio review, trading analytics, and market commentary — and write books used by equity analysts, portfolio managers, and finance students.
+
+## Find me
+
+- 🌐 **Website:** [tejasgjadhav.github.io](https://tejasgjadhav.github.io/)
+- 💼 **LinkedIn:** [linkedin.com/in/tejasjadhav7](https://www.linkedin.com/in/tejasjadhav7/)
+- 📚 **Books:** [Amazon author page](https://www.amazon.com/stores/author/B0GTBWDWML)
